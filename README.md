@@ -1,4 +1,4 @@
- Let’s go through the **complete A-Z setup for the ELK stack (Elasticsearch, Logstash, Kibana) on your Kubernetes cluster running on a VirtualBox VM **. 
+**Complete A-Z setup for the ELK stack (Elasticsearch, Logstash, Kibana) on your Kubernetes cluster running on a VirtualBox VM**. 
 
 ---
 
